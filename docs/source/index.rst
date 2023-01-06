@@ -1,10 +1,8 @@
 Guide to Setting Up and Running a Company in Singapore
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Singapore** is a popular destination for businesses for good reason. Here, we discuss the whys and hows of setting up a private limited company in Singapore. 
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
