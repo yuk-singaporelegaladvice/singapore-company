@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Guide to Setting Up and Running a Company in Singapore
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
